@@ -1,0 +1,14 @@
+C:\Users\klinkham.s\Desktop\I-6 Program\prog65h\bin\Debug\prog65h.exe.config
+C:\Users\klinkham.s\Desktop\I-6 Program\prog65h\bin\Debug\prog65h.exe
+C:\Users\klinkham.s\Desktop\I-6 Program\prog65h\bin\Debug\prog65h.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\prog65h\bin\Debug\IronPython.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\prog65h\bin\Debug\IronPython.Modules.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\prog65h\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\prog65h\bin\Debug\Microsoft.Scripting.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\prog65h\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\prog65h\bin\Debug\IronPython.xml
+C:\Users\klinkham.s\Desktop\I-6 Program\prog65h\bin\Debug\IronPython.Modules.xml
+C:\Users\klinkham.s\Desktop\I-6 Program\prog65h\obj\x86\Debug\prog65h.pyprojResolveAssemblyReference.cache
+C:\Users\klinkham.s\Desktop\I-6 Program\prog65h\obj\x86\Debug\prog65h.MainForm.resources
+C:\Users\klinkham.s\Desktop\I-6 Program\prog65h\obj\x86\Debug\prog65h.pyproj.GenerateResource.Cache
+C:\Users\klinkham.s\Desktop\I-6 Program\prog65h\obj\x86\Debug\prog65h.exe

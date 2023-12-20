@@ -1,0 +1,14 @@
+C:\Users\klinkham.s\Desktop\I-6 Program\Slot Machine\obj\x86\Debug\slot machine.pyprojResolveAssemblyReference.cache
+C:\Users\klinkham.s\Desktop\I-6 Program\Slot Machine\obj\x86\Debug\slot_machine.MainForm.resources
+C:\Users\klinkham.s\Desktop\I-6 Program\Slot Machine\obj\x86\Debug\slot machine.pyproj.GenerateResource.Cache
+C:\Users\klinkham.s\Desktop\I-6 Program\Slot Machine\bin\Debug\slot machine.exe.config
+C:\Users\klinkham.s\Desktop\I-6 Program\Slot Machine\bin\Debug\slot machine.exe
+C:\Users\klinkham.s\Desktop\I-6 Program\Slot Machine\bin\Debug\slot machine.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\Slot Machine\bin\Debug\IronPython.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\Slot Machine\bin\Debug\IronPython.Modules.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\Slot Machine\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\Slot Machine\bin\Debug\Microsoft.Scripting.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\Slot Machine\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\Slot Machine\bin\Debug\IronPython.xml
+C:\Users\klinkham.s\Desktop\I-6 Program\Slot Machine\bin\Debug\IronPython.Modules.xml
+C:\Users\klinkham.s\Desktop\I-6 Program\Slot Machine\obj\x86\Debug\slot machine.exe

@@ -1,0 +1,3 @@
+C:\Users\klinkham.s\Desktop\I-6 Program\Craig Rules!\obj\x86\Debug\Craig Rules!.pyprojResolveAssemblyReference.cache
+C:\Users\klinkham.s\Desktop\I-6 Program\Craig Rules!\obj\x86\Debug\Craig_Rules_.MainForm.resources
+C:\Users\klinkham.s\Desktop\I-6 Program\Craig Rules!\obj\x86\Debug\Craig Rules!.pyproj.GenerateResource.Cache

@@ -1,0 +1,12 @@
+C:\Users\klinkham.s\Desktop\I-6 Program\pg268fatcalcpt2\bin\Debug\pg268fatcalcpt2.exe.config
+C:\Users\klinkham.s\Desktop\I-6 Program\pg268fatcalcpt2\bin\Debug\pg268fatcalcpt2.exe
+C:\Users\klinkham.s\Desktop\I-6 Program\pg268fatcalcpt2\bin\Debug\pg268fatcalcpt2.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\pg268fatcalcpt2\bin\Debug\IronPython.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\pg268fatcalcpt2\bin\Debug\IronPython.Modules.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\pg268fatcalcpt2\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\pg268fatcalcpt2\bin\Debug\Microsoft.Scripting.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\pg268fatcalcpt2\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\pg268fatcalcpt2\bin\Debug\IronPython.xml
+C:\Users\klinkham.s\Desktop\I-6 Program\pg268fatcalcpt2\bin\Debug\IronPython.Modules.xml
+C:\Users\klinkham.s\Desktop\I-6 Program\pg268fatcalcpt2\obj\x86\Debug\pg268fatcalcpt2.pyprojResolveAssemblyReference.cache
+C:\Users\klinkham.s\Desktop\I-6 Program\pg268fatcalcpt2\obj\x86\Debug\pg268fatcalcpt2.exe

@@ -1,0 +1,14 @@
+C:\Users\klinkham.s\Desktop\I-6 Program\pg119fullname\bin\Debug\pg119fullname.exe.config
+C:\Users\klinkham.s\Desktop\I-6 Program\pg119fullname\bin\Debug\pg119fullname.exe
+C:\Users\klinkham.s\Desktop\I-6 Program\pg119fullname\bin\Debug\pg119fullname.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\pg119fullname\bin\Debug\IronPython.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\pg119fullname\bin\Debug\IronPython.Modules.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\pg119fullname\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\pg119fullname\bin\Debug\Microsoft.Scripting.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\pg119fullname\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\pg119fullname\bin\Debug\IronPython.xml
+C:\Users\klinkham.s\Desktop\I-6 Program\pg119fullname\bin\Debug\IronPython.Modules.xml
+C:\Users\klinkham.s\Desktop\I-6 Program\pg119fullname\obj\x86\Debug\pg119fullname.pyprojResolveAssemblyReference.cache
+C:\Users\klinkham.s\Desktop\I-6 Program\pg119fullname\obj\x86\Debug\pg119fullname.MainForm.resources
+C:\Users\klinkham.s\Desktop\I-6 Program\pg119fullname\obj\x86\Debug\pg119fullname.pyproj.GenerateResource.Cache
+C:\Users\klinkham.s\Desktop\I-6 Program\pg119fullname\obj\x86\Debug\pg119fullname.exe

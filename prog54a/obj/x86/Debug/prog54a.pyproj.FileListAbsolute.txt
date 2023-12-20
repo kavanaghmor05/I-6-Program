@@ -1,0 +1,3 @@
+C:\Users\klinkham.s\Desktop\I-6 Program\prog54a\obj\x86\Debug\prog54a.pyprojResolveAssemblyReference.cache
+C:\Users\klinkham.s\Desktop\I-6 Program\prog54a\obj\x86\Debug\prog54a.MainForm.resources
+C:\Users\klinkham.s\Desktop\I-6 Program\prog54a\obj\x86\Debug\prog54a.pyproj.GenerateResource.Cache

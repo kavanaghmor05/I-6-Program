@@ -1,0 +1,14 @@
+C:\Users\klinkham.s\Desktop\I-6 Program\pg198scoreaverage\obj\x86\Debug\pg198scoreaverage.pyprojResolveAssemblyReference.cache
+C:\Users\klinkham.s\Desktop\I-6 Program\pg198scoreaverage\obj\x86\Debug\pg198scoreaverage.MainForm.resources
+C:\Users\klinkham.s\Desktop\I-6 Program\pg198scoreaverage\obj\x86\Debug\pg198scoreaverage.pyproj.GenerateResource.Cache
+C:\Users\klinkham.s\Desktop\I-6 Program\pg198scoreaverage\bin\Debug\pg198scoreaverage.exe.config
+C:\Users\klinkham.s\Desktop\I-6 Program\pg198scoreaverage\bin\Debug\pg198scoreaverage.exe
+C:\Users\klinkham.s\Desktop\I-6 Program\pg198scoreaverage\bin\Debug\pg198scoreaverage.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\pg198scoreaverage\bin\Debug\IronPython.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\pg198scoreaverage\bin\Debug\IronPython.Modules.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\pg198scoreaverage\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\pg198scoreaverage\bin\Debug\Microsoft.Scripting.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\pg198scoreaverage\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\pg198scoreaverage\bin\Debug\IronPython.xml
+C:\Users\klinkham.s\Desktop\I-6 Program\pg198scoreaverage\bin\Debug\IronPython.Modules.xml
+C:\Users\klinkham.s\Desktop\I-6 Program\pg198scoreaverage\obj\x86\Debug\pg198scoreaverage.exe

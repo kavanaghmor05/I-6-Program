@@ -1,0 +1,12 @@
+C:\Users\klinkham.s\Desktop\I-6 Program\prog162hmorepeoplethanchairs\prog162hmorepeoplethanchairs\bin\Debug\prog162hmorepeoplethanchairs.exe.config
+C:\Users\klinkham.s\Desktop\I-6 Program\prog162hmorepeoplethanchairs\prog162hmorepeoplethanchairs\bin\Debug\prog162hmorepeoplethanchairs.exe
+C:\Users\klinkham.s\Desktop\I-6 Program\prog162hmorepeoplethanchairs\prog162hmorepeoplethanchairs\bin\Debug\prog162hmorepeoplethanchairs.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\prog162hmorepeoplethanchairs\prog162hmorepeoplethanchairs\bin\Debug\IronPython.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\prog162hmorepeoplethanchairs\prog162hmorepeoplethanchairs\bin\Debug\IronPython.Modules.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\prog162hmorepeoplethanchairs\prog162hmorepeoplethanchairs\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\prog162hmorepeoplethanchairs\prog162hmorepeoplethanchairs\bin\Debug\Microsoft.Scripting.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\prog162hmorepeoplethanchairs\prog162hmorepeoplethanchairs\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\prog162hmorepeoplethanchairs\prog162hmorepeoplethanchairs\obj\Debug\prog162hmorepeoplethanchairs.pyprojResolveAssemblyReference.cache
+C:\Users\klinkham.s\Desktop\I-6 Program\prog162hmorepeoplethanchairs\prog162hmorepeoplethanchairs\obj\Debug\prog162hmorepeoplethanchairs.MainForm.resources
+C:\Users\klinkham.s\Desktop\I-6 Program\prog162hmorepeoplethanchairs\prog162hmorepeoplethanchairs\obj\Debug\prog162hmorepeoplethanchairs.pyproj.GenerateResource.Cache
+C:\Users\klinkham.s\Desktop\I-6 Program\prog162hmorepeoplethanchairs\prog162hmorepeoplethanchairs\obj\Debug\prog162hmorepeoplethanchairs.exe

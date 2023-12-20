@@ -1,0 +1,14 @@
+C:\Users\klinkham.s\Desktop\I-6 Program\pg140simplecalc\obj\x86\Debug\pg140simplecalc.pyprojResolveAssemblyReference.cache
+C:\Users\klinkham.s\Desktop\I-6 Program\pg140simplecalc\obj\x86\Debug\pg140simplecalc.MainForm.resources
+C:\Users\klinkham.s\Desktop\I-6 Program\pg140simplecalc\obj\x86\Debug\pg140simplecalc.pyproj.GenerateResource.Cache
+C:\Users\klinkham.s\Desktop\I-6 Program\pg140simplecalc\bin\Debug\pg140simplecalc.exe.config
+C:\Users\klinkham.s\Desktop\I-6 Program\pg140simplecalc\bin\Debug\pg140simplecalc.exe
+C:\Users\klinkham.s\Desktop\I-6 Program\pg140simplecalc\bin\Debug\pg140simplecalc.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\pg140simplecalc\bin\Debug\IronPython.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\pg140simplecalc\bin\Debug\IronPython.Modules.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\pg140simplecalc\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\pg140simplecalc\bin\Debug\Microsoft.Scripting.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\pg140simplecalc\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\klinkham.s\Desktop\I-6 Program\pg140simplecalc\bin\Debug\IronPython.xml
+C:\Users\klinkham.s\Desktop\I-6 Program\pg140simplecalc\bin\Debug\IronPython.Modules.xml
+C:\Users\klinkham.s\Desktop\I-6 Program\pg140simplecalc\obj\x86\Debug\pg140simplecalc.exe
